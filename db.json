@@ -119,50 +119,11 @@
             "processed_at": "2018-07-12T14:57:02-04:00",
             "customer_locale": "en",
             "order_number": 1100,
-                {
-                    "type": "discount_code",
-                    "value": "10.0",
-                    "value_type": "percentage",
-                    "allocation_method": "each",
-                    "target_selection": "entitled",
-                    "target_type": "line_item",
-                    "code": "crm18"
-                }
-            ],
-                {
-                    "code": "crm18",
-                    "amount": "18.88",
-                    "type": "percentage"
-                }
-            ],
             "payment_gateway_names": [
                 "Cash on Delivery (COD)"
             ],
-                {
-                    "price": "14.59",
-                    "rate": 0.0575,
-                    "title": "OH State Tax"
-                },
-                {
-                    "price": "2.54",
-                    "rate": 0.01,
-                    "title": "Lorain County Tax"
-                }
-            ],
             "tags": "over 40lbs, UPS",
             "contact_email": "carrie@fred.com",
-                            "title": "OH State Tax",
-                            "price": "4.81",
-                            "rate": 0.0575
-                        },
-                        {
-                            "title": "Lorain County Tax",
-                            "price": "0.84",
-                            "rate": 0.01
-                        }
-                    ]
-                }
-            ],
             "shipping_address": {
                 "first_name": "Carrie",
                 "address1": "350 Commerce Drive East",
